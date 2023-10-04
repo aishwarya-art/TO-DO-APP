@@ -27,12 +27,12 @@ Make sure you have Node.js installed on your machine. You can download it from [
    cd react-notes-app
 
 3.Install dependencies.
- 
+   ```bash
    npm install
 
 4.Running the App
 Start the development server.
-  
+   ```bash
    npm start
 
 5.Visit http://localhost:3000/ in your web browser to use the app.
