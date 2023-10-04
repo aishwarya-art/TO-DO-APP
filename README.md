@@ -23,16 +23,17 @@ Make sure you have Node.js installed on your machine. You can download it from [
    git clone https://github.com/your-username/react-notes-app.git
 
 2. Navigate to the project directory.
-
-cd react-notes-app
+  ```bash
+   cd react-notes-app
 
 3.Install dependencies.
-npm install
+  ```bash
+   npm install
 
 4.Running the App
 Start the development server.
-
-npm start
+  ```bash
+   npm start
 
 5.Visit http://localhost:3000/ in your web browser to use the app.
 
