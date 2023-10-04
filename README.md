@@ -1,5 +1,5 @@
 
-# React To-Do-App App with CRUD Operations
+# React To-Do-App with CRUD Operations
 
 A feature-rich notes app built with React.js, allowing users to Create, Read, Update, and Delete notes seamlessly.
 
