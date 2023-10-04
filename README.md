@@ -24,7 +24,7 @@ Make sure you have Node.js installed on your machine. You can download it from [
 
 2. Navigate to the project directory.
    ```bash
-   cd react-notes-app
+   cd To-Do-App
 
 3.Install dependencies.
   
