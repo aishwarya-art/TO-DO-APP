@@ -30,12 +30,12 @@ Make sure you have Node.js installed on your machine. You can download it from [
    ```bash
    npm install
 
-4.Running the App
-Start the development server.
-   ```bash
+ 4.Running the App
+  Start the development server.
+   
    npm start
 
-5.Visit http://localhost:3000/ in your web browser to use the app.
+ 5.Visit http://localhost:3000/ in your web browser to use the app.
 
 ## Usage
 Add a New Note:
